@@ -9,7 +9,7 @@ This repository focuses on Large Scene Reconstruction in Autonomous Driving. Our
 This curated collection of resources is related to tackling real-world challenges in autonomous driving perception using NeRF (Neural Radiance Fields) and 3D Gaussian Splatting (3D-GS).
 
 Furthermore, we are currently operating a paper and code review study in [PsuedoLab](https://discord.gg/mNAT2GKM). Go check it out!
-(Every Tuesday at 9pm, PseudoLab Discord Room YL!) 🚗💡
+(Every Tuesday at 9pm, PseudoLab Discord Room AV!) 🚗💡
 
 ### 스터디 소개
 **"리처드 파인만(Feynman)"**
